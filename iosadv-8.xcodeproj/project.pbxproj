@@ -14,6 +14,7 @@
 		1AC21FE2285BC54E009DE82A /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC21FE1285BC54E009DE82A /* LoginView.swift */; };
 		1AC21FE4285BC9AF009DE82A /* LocalAuthorizationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC21FE3285BC9AF009DE82A /* LocalAuthorizationService.swift */; };
 		1AC21FE7285BDD25009DE82A /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC21FE6285BDD25009DE82A /* MainView.swift */; };
+		1AC21FFC285D3C49009DE82A /* LocalNotificationsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC21FFB285D3C49009DE82A /* LocalNotificationsService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		1AC21FE1285BC54E009DE82A /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		1AC21FE3285BC9AF009DE82A /* LocalAuthorizationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalAuthorizationService.swift; sourceTree = "<group>"; };
 		1AC21FE6285BDD25009DE82A /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		1AC21FFB285D3C49009DE82A /* LocalNotificationsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				1AC21FE1285BC54E009DE82A /* LoginView.swift */,
 				1AC21FE6285BDD25009DE82A /* MainView.swift */,
 				1AC21FE3285BC9AF009DE82A /* LocalAuthorizationService.swift */,
+				1AC21FFB285D3C49009DE82A /* LocalNotificationsService.swift */,
 				1AC21FD7285BC146009DE82A /* Assets.xcassets */,
 				1AC21FD9285BC146009DE82A /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 				1AC21FD6285BC143009DE82A /* ContentView.swift in Sources */,
 				1AC21FE7285BDD25009DE82A /* MainView.swift in Sources */,
 				1AC21FD4285BC143009DE82A /* iosadv_8App.swift in Sources */,
+				1AC21FFC285D3C49009DE82A /* LocalNotificationsService.swift in Sources */,
 				1AC21FE4285BC9AF009DE82A /* LocalAuthorizationService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
