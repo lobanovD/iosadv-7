@@ -42,8 +42,8 @@ class LocalNotificationsService {
         let notifyCenter = UNUserNotificationCenter.current()
         
         var dateComponents = DateComponents()
-        dateComponents.hour = 1
-        dateComponents.minute = 25
+        dateComponents.hour = 19
+        dateComponents.minute = 00
         
         let trigger = UNCalendarNotificationTrigger(
             dateMatching: dateComponents, repeats: true)
